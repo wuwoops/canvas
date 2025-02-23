@@ -12,10 +12,10 @@ export default defineAppConfig({
   },
   socials: {
     github: 'https://github.com/HugoRCD',
-    twitter: 'https://twitter.com/HugoRCD__',
-    linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
-    spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
+    twitter: '',
+    linkedin: '',
+    instagram: '',
+    spotify: '',
   },
   seo: {
     title: 'Canvas a Nuxt portfolio template',
